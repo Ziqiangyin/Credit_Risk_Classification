@@ -1,5 +1,4 @@
-# [Module 12] Credit Risk Classification Report
-
+# [Module 12] Credit Risk Analysis Report
 Credit risk prediction is a challenging classification problem due to imbalanced data. The majority of instances belong to the healthy loan class, while the number of high-risk loans is significantly lower. This imbalance can lead to biased predictions, with models favoring the majority class.
 
 To address this issue, techniques such as resampling methods (oversampling or undersampling) and synthetic data generation (SMOTE) can be employed. These approaches rebalance the data, enabling the model to learn from a more representative dataset and improve its ability to predict high-risk loans accurately.

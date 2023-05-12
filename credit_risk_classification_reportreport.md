@@ -56,31 +56,31 @@ By using LogisticRegression in conjunction with RandomOverSampler, the model's p
 
 ## Model Evaluation: Balanced Accuracy, Precision, and Recall Scores of Machine Learning Models
 
-* Machine Learning Model 1: LogisticRegression algorithm
+### Machine Learning Model 1: LogisticRegression algorithm
 
 For the "healthy loan" class:
-  ** F1 score: 1,
-  ** Precision: 1,
-  ** Recall: 1
+  * F1 score: 1,
+  * Precision: 1,
+  * Recall: 1
 
 For the "high-risk loan" class:
-  ** F1 score: 0.88,
-  ** Precision: 0.87,
-  ** Recall: 0.89
+  * F1 score: 0.88,
+  * Precision: 0.87,
+  * Recall: 0.89
 
 Model Accuracy: 0.99
 
-* Machine Learning Model 2: LogisticRegression algorithm with oversampled data
+### Machine Learning Model 2: LogisticRegression algorithm with oversampled data
 
 For the "healthy loan" class:
-  ** F1 score: 1,
-  ** Precision: 1,
-  ** Recall: 1
+  * F1 score: 1,
+  * Precision: 1,
+  * Recall: 1
 
 For the "high-risk loan" class:
-  ** F1 score: 0.93,
-  ** Precision: 0.87,
-  ** Recall: 1
+  * F1 score: 0.93,
+  * Precision: 0.87,
+  * Recall: 1
 
 Model Accuracy: 1
 
